@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- 👨‍💻 All of my projects are available at [http](https://devboris.com/) </a>
+- 👨‍💻 All of my projects are available at [My website](https://devboris.com/) </a>
 
 - 📫 How to reach me **petrovicboris777@gmail.com**
 
