@@ -1,7 +1,7 @@
-[![MasterHead](https://i.pinimg.com/736x/3b/8f/23/3b8f23f85139f596db5f43a0e088acc0.jpg)]
+[![MasterHead](https://www.vecteezy.com/vector-art/17385812-coding-system-minimal-infographic-banner-vector)]
 <h1 align="center">Hi 👋, I'm Boris Petrovic</h1>
 <h3 align="center">A passionate frontend developer from Serbia</h3>
-<img align=“right” alt=“coding” width=“400” src=“https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIrOCDpVQlw2KFpiitRJUJHN1rDRGRbNTk0Q&s” >
+<img align=“right” alt=“coding” width=“400” src=“https://gifdb.com/images/high/animated-programmer-guy-coding-790a0bs8e8thpisg.gif” >
  
 - 🔭 I’m currently working on **An ecommerce website**
 
